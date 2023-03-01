@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebasebooks/static/css/main.ee2f6c1d.css",
+    "main.js": "/firebasebooks/static/js/main.79afa1b6.js",
+    "static/js/787.08f3454f.chunk.js": "/firebasebooks/static/js/787.08f3454f.chunk.js",
+    "index.html": "/firebasebooks/index.html",
+    "main.ee2f6c1d.css.map": "/firebasebooks/static/css/main.ee2f6c1d.css.map",
+    "main.79afa1b6.js.map": "/firebasebooks/static/js/main.79afa1b6.js.map",
+    "787.08f3454f.chunk.js.map": "/firebasebooks/static/js/787.08f3454f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee2f6c1d.css",
+    "static/js/main.79afa1b6.js"
+  ]
+}
